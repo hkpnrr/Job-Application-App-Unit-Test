@@ -1,0 +1,14 @@
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.exe
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.deps.json
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.runtimeconfig.json
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.runtimeconfig.dev.json
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.dll
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\bin\Debug\netcoreapp3.1\JobApplicationLibrary.pdb
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.dll
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.pdb
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.genruntimeconfig.cache
+C:\Users\90555\source\repos\JobApplication\JobApplicationLibrary\obj\Debug\netcoreapp3.1\JobApplicationLibrary.csproj.AssemblyReference.cache
